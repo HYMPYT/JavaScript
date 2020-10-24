@@ -1,0 +1,14 @@
+.row {
+    margin-top: 5px;
+}
+
+button {
+    width: 70px;
+    height: 70px;
+    font-size: 24px;
+}
+
+.btn {
+    background-color: green;
+    box-shadow: 0 0 5px 4px;
+}
